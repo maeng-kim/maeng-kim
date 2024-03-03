@@ -18,6 +18,17 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+
+  <h3>🌱SNS & Portfolio🌱</h3>
+  <a href="https://maeng-kim.tistory.com/"><img src="https://img.shields.io/badge/tisory-000000?style=flat&logo=tistory&logoColor=white" />
+<a href="mailto:hyunsukim237@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+
+ <br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-kim&layout=compact">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=capayu)](https://solved.ac/capayu/)
 </div>
 
