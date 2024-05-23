@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE146&height=200&section=header&text=Maeng-Hub!&fontSize=90&fontColor=F2E6D6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FEF79E&height=200&section=header&text=Maeng-Hub!&fontSize=90&fontColor=ABADA7" />
 
 <div align=center>
   <h3>☁️Tech Stack☁️</h3>
