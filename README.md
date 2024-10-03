@@ -26,6 +26,7 @@
   <h3>🌱SNS & Portfolio🌱</h3>
   <a href="https://maeng-kim.tistory.com/"><img src="https://img.shields.io/badge/tisory-000000?style=flat&logo=tistory&logoColor=white" />
 <a href="mailto:hyunsukim237@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+<a href="https://coordinated-boa-94c.notion.site/0ffa2544080680b7a4bde330e3428593"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
 
  <br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeng-kim&layout=compact">
